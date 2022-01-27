@@ -28,8 +28,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>MONGODB
 
    
-# [Discord Server 😎](https://dsc/milanio) | [Website](https://mianiodev.ml)
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
+# [Discord Server 😎](https://discord.gg/HuGsqXh6) | [Website](https://mianiodev.ml)
+<a href="https://discord.gg/HuGsqXh6"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
 ***
 ***
 # OUR BOTS:
