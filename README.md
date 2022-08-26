@@ -1,31 +1,31 @@
-### Hi there, I'm Anishsharma - aka DECON#5711 || Anishgamer777 
+### Hi there, I'm Anishsharma - aka Anishdev
 
 ## I'm a  Developer, and student !!
 
-- 🌱
-  👾 I’m currently a small discord bot dev 
-  👯 I’m looking to collaborate with other content creators
+
+- 👾 I’m currently a small discord bot dev 
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
-## [DISCORD ](https://dsc.com/milanio)
+## Connect with me:
+- [Instagram](https://dsc.com/milanio)
 
 
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML
+- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML
        
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS
+- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>JAVASCRIPT 
+- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>JAVASCRIPT 
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>NODEJS
+- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>NODEJS
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />MYSQL
+- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />MYSQL
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>MONGODB
+- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>MONGODB
 
    
 # [Discord Server 😎](https://discord.gg/HuGsqXh6) | [Website](https://mianiodev.ml)
