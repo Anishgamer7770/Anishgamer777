@@ -19,7 +19,7 @@ I'm a full stack developer Know many Languages Given below
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Other Common Github Profile Sections
+## Explaination about me 
 👩‍💻 I'm currently working on Open Source project 
 
 🧠 I'm currently learning python and react.js
