@@ -10,9 +10,9 @@ I am 🌱Anish Sharma Aka Anishdev
 ## 🚀 About Me
 I'm a full stack developer Know many Languages Given below
 
-
+## 🐜 Discord Status
+ <a href="#"><img src="https://discord.c99.nl/widget/theme-1/707066042563821569.png"></a>
 ## 🔗 Links
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anishdev.milaniodev.ml)
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
 
