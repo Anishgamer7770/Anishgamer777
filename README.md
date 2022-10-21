@@ -22,30 +22,15 @@ I'm a full stack developer Know many Languages Given below
 ## Explaination about me 
 👩‍💻 I'm currently working on Open Source project 
 
-🧠 I'm currently learning python and react.js
+🧠 I'm currently learning python and css(advance)
 
-👯‍♀️ I'm looking to collaborate on discordjs
+👯‍♀️ I use a wrapper names  discord.js for my discord bots 
 
-🤔 I'm looking for help with web application 
+🤔 I'm about 14
 
-💬 Ask me about wht you want 
-
-📫 How to reach me on 
-
-😄 Pronouns nothing 70 times
+💬 I don't do collaborate in waste stuff
 
 ⚡️ Fun fact: I love 🎸 and 🥁
-
-
-## FAQ
-
-#### Who is your gf?
-
-No one 
-
-#### Is you earn something 
-
-NO
 
 
 ## License
