@@ -2,9 +2,8 @@
 ## 🚀 About Me
 Hello, I'm Anish Sharma, a 16-year-old hailing from Punjab, India. I proudly serve as the Founder of Master Development, where we pave the way for innovation and growth with every project we undertake.
 
-## 🐈‍⬛github stats 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anish2dev)](https://github.com/anish2dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2dev)](https://github.com/anish2dev)
+## I know 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 🔗 Links
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
