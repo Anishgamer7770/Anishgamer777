@@ -27,24 +27,7 @@ Hello, I'm Anish Sharma, a 16-year-old hailing from Punjab, India. I proudly ser
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
-
-## Explaination about me 
-👩‍💻 I'm currently working on Open Source project 
-
-🧠 I'm currently learning python and css(advance)
-
-👯‍♀️ I use a wrapper names  discord.js for my discord bots 
-
-🤔 I'm about 14
-
-💬 I don't do collaborate in waste stuff
-
-⚡️ Fun fact: I love 🎸 and 🥁
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
