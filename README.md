@@ -1,17 +1,7 @@
 
-![Logo](https://androidart.in/wp-content/uploads/2022/07/depositphotos_274099404-stock-photo-computer-hacker-in-hoodie-obscured_compress83.jpg)
-
-
-# Anish Dev
-
-I am 🌱Anish Sharma Aka Anishdev
-
-
 ## 🚀 About Me
-I'm a full stack developer Know many Languages Given below
+Hello, I'm Anish Sharma, a 16-year-old hailing from Punjab, India. I proudly serve as the Founder of Master Development, where we pave the way for innovation and growth with every project we undertake.
 
-## 🐜 Discord Status
- <a href="#"><img src="https://discord.c99.nl/widget/theme-3/707066042563821569.png"></a>
 ## 🐈‍⬛github stats 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anish2dev)](https://github.com/anish2dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2dev)](https://github.com/anish2dev)
